@@ -284,6 +284,8 @@ html {
     background-position: center center;
     padding: 100px 0;
     text-align: center;
+    color: white;
+    text-decoration-thickness: 5px;
 }
 
 .contenedor-skills .skill {

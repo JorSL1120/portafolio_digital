@@ -69,6 +69,10 @@ html {
     color: red;
 }
 
+#inicio .contenido header .contenido-header .seleccionado {
+    color: red;
+}
+
 #inicio .contenido .presentacion {
     max-width: 1100px;
     height: 100vh;
